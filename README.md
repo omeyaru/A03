@@ -8,15 +8,26 @@ Once you've created an account, download git from https://git-scm.com/downloads
 To add files to Git, click add, and browse your system then select the file. To push a change to a repository, press CTRL+SHIFT+K, and that file will now be uploaded and updated onto the proper repository on GitHub.
 
 Definitions:
-GIT: 
-GITHUB:
-Repository:
-Clone:
-Commit:
-Push:
-Pull:
-Branch:
-Merge:
-Merge Conflict: 
-Fetch:
-Remote:
+GIT: Used for version control, used by programmers to track changes withing code during development.
+
+GITHUB: Used alongside of GIT, for hosting code.
+
+Repository: Basically, a folder used to help track changes to files. 
+
+Clone: A copy of a repository that is stored on a computer, not on a file hosting service. 
+
+Commit: Making changes to a file; every time a change is made and saved, it is tracked with a unique ID.
+
+Push: Pushing allows you to save locally made changes to the file hosting service.
+
+Pull: Allows you to take code from the server to the local side
+
+Branch: A development space independent of others.
+
+Merge: A type of pull request. Commits can be merged and combined into one for example. 
+
+Merge Conflict: Trying to merge two files that modify the same area of another file will cause conflict because Git will not know which change to keep.
+
+Fetch: Downloads commits, allows you to see what everyone who has acces to the project has been working on.
+
+Remote: A git repository not on the local system. Through the use of a remote you can access said repository
