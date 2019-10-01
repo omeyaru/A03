@@ -17,6 +17,6 @@ Push:
 Pull:
 Branch:
 Merge:
-Merge Conflict:
+Merge Conflict: 
 Fetch:
 Remote:
