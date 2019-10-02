@@ -17,6 +17,7 @@ From appearance and behavior in system preferences, you can add a GitHub passwor
 
 
 Definitions:
+
 GIT: Used for version control, used by programmers to track changes withing code during development.
 
 GITHUB: Used alongside of GIT, for hosting code.
